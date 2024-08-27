@@ -1,0 +1,3 @@
+# ¿Como nombra el sistema operativo?
+
+Las versiones del sistema operativo macOS de Apple llevan nombres de lugares icónicos de California. Esta tradición comenzó con OS X Mavericks en 2013, y cada nombre simboliza características o mejoras específicas de la versión del sistema operativo. Por ejemplo, Yosemite, El Capitan, y Big Sur son lugares conocidos por sus paisajes y características únicas, que Apple utiliza para reflejar los cambios y mejoras en cada actualización de macOS.
