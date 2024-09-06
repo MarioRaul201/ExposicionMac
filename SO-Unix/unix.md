@@ -17,6 +17,18 @@ macOS, el sistema operativo de Apple para sus computadoras, tiene sus raíces en
 
 Después de la adquisición, Apple utilizó NeXTSTEP como la base para crear lo que eventualmente se conocería como macOS. La primera versión de este nuevo sistema operativo fue Mac OS X 10.0, lanzada en 2001. Mac OS X, ahora conocido como macOS, se basa en el núcleo Darwin, que a su vez está basado en el kernel XNU (un acrónimo de "X is Not Unix"), un híbrido que combina elementos de Mach y BSD.
 
+### Relación entre Linux y macOS
+
+macOS y Linux tienen una relación cercana debido a sus raíces comunes en Unix. Aunque no comparten el mismo código fuente, hay similitudes significativas en su arquitectura y comportamiento:
+
+- **Raíces en Unix:** Tanto Linux como macOS están inspirados en la filosofía y diseño de Unix. Linux es una implementación libre de Unix, mientras que macOS se basa en BSD (una variante de Unix). Esto significa que muchas de las herramientas de línea de comandos y conceptos, como el sistema de archivos, permisos y estructura de directorios, son similares o casi idénticos entre ambos sistemas.
+
+- **Terminal y Herramientas de Desarrollo:** En macOS, la terminal ofrece un entorno Unix, lo que permite ejecutar muchos de los mismos comandos que en Linux (por ejemplo, `ls`, `cd`, `grep`, `chmod`). Por lo tanto, macOS es un sistema operativo popular entre desarrolladores que también trabajan en entornos Linux, ya que pueden desarrollar y probar software en un entorno compatible sin la necesidad de utilizar Linux directamente.
+
+- **Portabilidad de Software:** Muchas aplicaciones diseñadas para ejecutarse en Linux pueden ser fácilmente portadas a macOS, y viceversa, gracias a su base Unix compartida. Herramientas de desarrollo populares como Docker, Git, y lenguajes de programación como Python y Ruby funcionan de manera muy similar en ambos sistemas.
+
+- **Kernel Diferente:** Una de las diferencias clave es el kernel. Linux utiliza el kernel de Linux, mientras que macOS utiliza XNU. Esto significa que, aunque las herramientas y comportamientos de usuario pueden ser similares, a nivel del núcleo del sistema operativo hay diferencias fundamentales en cómo se manejan los procesos, la memoria y los dispositivos.
+
 ### Impacto de Unix en la Arquitectura de macOS
 
 El impacto de Unix en la arquitectura de macOS es profundo y evidente en varios aspectos:
